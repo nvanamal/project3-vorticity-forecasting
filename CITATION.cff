@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript when available."
+title: "Numerical Differentiation Sensitivity and Physics-Enriched Machine Learning for Extreme Vorticity Growth Forecasting in Isotropic Turbulence: A Spatiotemporal Pilot Study"
+authors:
+  - family-names: Vanamala
+    given-names: Nagendrababu
+repository-code: "https://github.com/nvanamal/project3-vorticity-forecasting"
+type: software

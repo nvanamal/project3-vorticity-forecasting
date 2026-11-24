@@ -1,0 +1,5 @@
+region,best_linear_RMSE,best_HGB_RMSE,provenance
+R1,2.353423,3.469397,reported_SciServer
+R2,3.240107,6.423187,reported_SciServer
+R3,5.983938,10.177048,reported_SciServer
+R4,2.223371,5.080373,reported_SciServer

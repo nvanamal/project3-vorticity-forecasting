@@ -1,0 +1,7 @@
+target,percentile,FD8_threshold,calibrated_FD2_threshold,common_TP,calibrated_TP,reference_positives
+Magnitude,90,53.883054,50.409417,174,210,236
+Magnitude,95,61.428733,56.834818,73,97,114
+Magnitude,99,87.669977,74.103463,6,19,20
+Growth,90,6.541594,5.494424,146,189,229
+Growth,95,8.954305,7.413734,62,94,112
+Growth,99,18.632210,14.952005,10,19,25

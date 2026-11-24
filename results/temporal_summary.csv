@@ -1,0 +1,5 @@
+model,feature_order,target_order,RMSE,MAE,R2,provenance
+HGB,FD2,FD8,2.208505,1.518312,0.857921,reported_SciServer
+HGB,FD8,FD8,2.247879,1.541855,0.852810,reported_SciServer
+Zero_growth,None,FD8,5.870683,4.072378,-0.003944,reported_SciServer
+Linear_extrapolation,FD2,FD8,3.779605,2.374923,0.583874,reported_SciServer

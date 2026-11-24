@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*token*
+*credentials*
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+data/raw/
+*.h5
+*.hdf5
+*.mph

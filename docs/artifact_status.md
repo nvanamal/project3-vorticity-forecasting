@@ -1,0 +1,2 @@
+# Reproducibility status
+Available here: study documentation and transcribed summary metrics. Pending original SciServer notebooks, derivative tensors, API comparison, growth master, split manifests, prediction outputs, bootstrap replicates, threshold results, feature ablation, spatial results, figures and source data, supplementary PDF, manuscript PDF, verified environment and artifact checksums. No independent execution or leakage audit claimed. No release tag until verification. License selection pending author decision.
